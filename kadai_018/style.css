@@ -1,9 +1,7 @@
 #top{
   background-color: #dcc9f4;
   width: 800px;
-  margin: 0 auto;
-  padding-top: 20px;
-  padding-bottom: 20px;
+  margin: 20px auto;
   text-align: center;
 }
 .top-child{
