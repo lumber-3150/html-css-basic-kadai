@@ -1,0 +1,47 @@
+header{
+  margin-bottom: 20px;
+  background-color: rgb(244,79,79);
+  text-align: center;
+}
+
+h1{
+  margin: 0;
+  color: rgb(255, 255, 255);
+}
+p{
+  font-size: 20px;
+  margin: 0;
+}
+a{
+  font-size: 20px;
+  color: rgb(244, 79, 79);
+  text-align: center;
+  
+}
+body{
+  margin: 0;
+}
+main{
+  margin: 10px;
+}
+
+#parent{
+  display: flex;
+}
+.contents{
+  width: 25%;
+  margin: 10px 15px;
+  padding: 20px 0;
+}
+h2{
+  font-size: 25px;
+}
+img{
+  margin: 10px 0;
+  width: 70%;
+}
+
+footer{
+  background-color: rgb(244, 79, 79);
+  text-align: center;
+}
