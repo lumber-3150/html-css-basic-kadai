@@ -36,6 +36,7 @@ p:nth-of-type(2)::first-letter{
 }
 h2{
   font-size: 25px;
+  border-bottom: 3px dotted rgb(236,122,122)
 }
 h2::before{
   content: "●";
