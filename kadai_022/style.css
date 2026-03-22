@@ -22,12 +22,12 @@ main{
 
 #parent{
   display: flex;
-  justify-content: space-evenly;
+  justify-content: space-around;
 }
 .contents{
   flex-basis: 25%;
-  margin: 10px 15px;
-  padding: 20px 0;
+  padding: 10px 15px;
+  margin: 20px 0;
   border: 3px solid rgb(238,204,204);
 }
 p:nth-of-type(2)::first-letter{
@@ -72,6 +72,6 @@ a:visited{
   font-size: 25px;
  }
  #parent{
-  display: block;
+  flex-direction: column;
  }
 }
